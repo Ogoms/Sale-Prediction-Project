@@ -13,9 +13,9 @@ This project focuses on developing a Sales and Operation Planning (S&OP) system 
 - Python
   
 ## Getting Started
-1. Clone this repository: `git clone <repository_url>`
+1. Clone this repository: `git clone <https://github.com/Ogoms/Sale-Prediction-Project.git>`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the main Python script: `python main.py`
+3. Run the main Python script: `python main.ipynb`
 
 ## Usage
 1. Provide input data (demand forecasts, production capacities, etc.).
