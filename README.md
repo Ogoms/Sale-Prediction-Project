@@ -9,7 +9,7 @@ This project focuses on developing a Sales and Operation Planning (S&OP) system 
 - **Inventory Management**: Manage inventory levels to balance supply and demand.
 - **Cost Optimization**: Minimize costs by optimizing production schedules and inventory levels.
 
-## Technologies Used
+## Technology Used
 - Python
   
 ## Getting Started
